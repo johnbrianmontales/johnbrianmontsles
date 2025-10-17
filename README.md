@@ -87,7 +87,7 @@
         <h1>Bread and Pastry Product</h1>
     </header>
     <div class="description">
-        Discover the delightful world of homemade breads and pastries. Our collection is baked fresh with passion and premium ingredients, perfect for any occasion or craving!
+        Discover the delightful world of homemade breads and pastries. Our collection is baked fresh with passion and premium ingredients.
     </div>
     <section class="products">
         <div class="product">
